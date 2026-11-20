@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://github.com/master-teb/product-preview-card-component)
+- Live Site URL: [GitHub](https://master-teb.github.io/product-preview-card-component/)
 
 ## My process
 
